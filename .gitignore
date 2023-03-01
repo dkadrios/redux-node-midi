@@ -1,0 +1,9 @@
+*.log
+dist/
+node_modules/
+.babel-cache/
+.DS_STORE
+coverage/
+doc/
+deploy_key
+deploy_key.pub
